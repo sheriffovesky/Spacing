@@ -1,2 +1,2 @@
 # Spacing
-Spacing, a flutter app for booking co-working spaces.
+Spacing, a flutter app to book nearby co-working spaces.
